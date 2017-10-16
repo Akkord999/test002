@@ -14,6 +14,7 @@ public class Test002 {
        System.out.println("Input RealNumber  >");
        double m = Double.parseDouble(scan.next()) ;
        System.out.println("RealNumber =" + m);
+       
 	}
 
 }
